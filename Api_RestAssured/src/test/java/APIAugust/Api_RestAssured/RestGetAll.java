@@ -12,7 +12,7 @@ public static void main(String[] args) {
 		given()
 		.contentType(ContentType.JSON)
 		.when()
-		.get(" http://localhost:3000/RestDummyAPI1/5");
+		.get(" http://localhost:3000/RestDummyAPI1");
 		System.out.println("status code is:");
 		System.out.println(rs.statusCode());
 		System.out.println("response data is:");
