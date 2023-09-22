@@ -1,0 +1,13 @@
+{
+      "firstname": "Susha",
+      "lastname": "Mohan",
+      "designation": "Modulelead",
+      "location": "Hyderabad",
+      "id": "sandhya",
+      "adddress" :
+      	{
+			  "housename":"Crystal Plaza",
+			  "streename":"Panchavaty Colony",
+			  "area":"hyderabad"
+		  } 
+ }
